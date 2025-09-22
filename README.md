@@ -15,7 +15,7 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 
 ### Computer System
 - Minimum **4GB RAM** and a **multi-core processor**
-
+  
 ## Procedure
 
 ### 1. Launch Cadence Virtuoso Environment
